@@ -1,3 +1,22 @@
+# Rahul Aggarwal
+I'm Rahul from India, and I excel at Software Development, micro services and cloud computing. I really enjoy learning languages and frameworks like Java, C++ and Spring Boot.
+
+## Skills
+* ⚛ Java, C++, Python
+* 📱 Spring Boot, Spring, Maven
+* 💻 JavaScript
+
+## Examples of Work
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Rahul Aggarwal</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
