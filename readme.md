@@ -6,7 +6,7 @@ I'm Rahul from India, and I excel at Software Development, micro services and cl
 * 📱 Spring Boot, Spring, Maven
 * ❄️ REST, SOAP, RPC
 * 💻 Git, Perforce, SVN
-* 🛢 SQL, DynamoDB, PostgreSQL
+* 💾 SQL, DynamoDB, PostgreSQL
 
 * :snowflake
 
