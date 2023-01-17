@@ -2,9 +2,13 @@
 I'm Rahul from India, and I excel at Software Development, micro services and cloud computing. I really enjoy learning languages and frameworks like Java, C++ and Spring Boot.
 
 ## Skills
-* ⚛ Java, C++, Python
+* ⚛ Java, C++, Python, JavaScript
 * 📱 Spring Boot, Spring, Maven
-* 💻 JavaScript
+* ❄️ REST, SOAP, RPC
+* 💻 Git, Perforce, SVN
+* ![image](https://user-images.githubusercontent.com/122918847/213000004-6697a60c-b637-4c58-a859-4354811c44bb.png) SQL, DynamoDB, PostgreSQL
+
+* :snowflake
 
 ## Examples of Work
 
