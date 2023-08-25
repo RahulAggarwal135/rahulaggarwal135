@@ -1,12 +1,16 @@
 # Rahul Aggarwal
-I'm Rahul from India, and I excel at Software Development, micro services and cloud computing. I really enjoy learning languages and frameworks like Java, C++ and Spring Boot.
+Around 9 years experienced, Software Developer armed with track record of designing, developing, testing and troubleshooting code via latest technologies. I excel at Software Development in fields of Micro Services, API development and Distributive Systems. Proficient in collaborating with technical teams to deliver solutions for optimizing processes and boosting code quality
+
 
 ## Skills
 * ⚛ Java, C++, Python, JavaScript
 * 📱 Spring Boot, Spring, Maven
 * ❄️ REST, SOAP, RPC
-* 💻 Git, Perforce, SVN
+* 💭 Jenkins, Altus, Docker
 * 💾 SQL, DynamoDB, PostgreSQL
+* 💻 Git, Perforce, SVN
+* 🛡️ SAML, SSO, OAuth, JNI
+* 🧪TestNG, Junit, Mockito
 
 ## Experience
 
@@ -23,7 +27,11 @@ I'm Rahul from India, and I excel at Software Development, micro services and cl
     ** In R&D Periodicals team of Amazon kindle product, Developed registration flow pages of Kindle Publishing Portal on both frontend and backend side.
 <br>
 ## Projects
-<a href="https://github.com/RahulAggarwal135/Blogging-Project" target="blank">Blogging Application</a>
+<a href="https://github.com/RahulAggarwal135/Blogging-Project" target="blank">Blogging Application</a></br>
+This is a Single Service application developed in Java using Springboot framework. Application can register a user, user can do a post and do a comment on respective post. Sorting, Pagination and Global Exception handling is implemented from controller level.
+</br></br>
+<a href="https://github.com/RahulAggarwal135/Hotel-Rating" target="blank">Hotel Rating Application</a></br>
+
 
 
 ## Connect with me:
@@ -31,6 +39,5 @@ I'm Rahul from India, and I excel at Software Development, micro services and cl
 <a href="mailto:rahulaggarwal135@hotmail.com" class="pv-contact-info__contact-link link-without-visited-state t-14" target="_blank" rel="noopener noreferrer">
 ✉️</a>
 <a href="https://linkedin.com/in/rahulvit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulvit" height="30" width="40" /></a>
-<a href="https://twitter.com/rahulaggarwal135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulaggarwal135" height="30" width="40" /></a>
 </p>
 <br><br>
