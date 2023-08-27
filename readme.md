@@ -1,5 +1,5 @@
 # Rahul Aggarwal
-Around 9 years experienced, Software Developer armed with track record of designing, developing, testing and troubleshooting code via latest technologies. I excel at Software Development in fields of Micro Services, API development and Distributive Systems. Proficient in collaborating with technical teams to deliver solutions for optimizing processes and boosting code quality
+Around 9 years experienced, Software Developer armed with track record of designing, developing, testing and troubleshooting code in fields of Micro Services, API development and Distributive Systems. Proficient in collaborating with technical teams to deliver solutions for optimizing processes and boosting code quality
 
 
 ## Skills
