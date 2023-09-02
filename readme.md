@@ -31,6 +31,8 @@ Around 9 years experienced, Software Developer armed with track record of design
 This is a Single Service application developed in Java using Springboot framework. Application can register a user, user can do a post and do a comment on respective post. Sorting, Pagination and Global Exception handling is implemented from controller level.
 </br></br>
 <a href="https://github.com/RahulAggarwal135/Hotel-Rating" target="blank">Hotel Rating Application</a></br>
+Multi Service Application developed in Java using Spring Boot framework. Services Hotel, Rating and User are linked with respective MongoDB, PostgresSQL and 
+MySQL databases. Intercommunication among services is implemented using webclient RESTTemplate and Netflix Eureka Service discovery server.
 
 
 
