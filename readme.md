@@ -3,8 +3,8 @@ Around 9 years experienced, Software Developer armed with track record of design
 
 
 ## Skills
-* ⚛ Java, C++, Python, JavaScript
-* 📱 Spring Boot, Spring, Maven
+* ⚛ Java, Python, C++, JavaScript
+* 📱 Spring Boot, Django, DRF, Spring, Maven
 * ❄️ REST, SOAP, RPC
 * 💭 Jenkins, Altus, Docker
 * 💾 SQL, DynamoDB, PostgreSQL
@@ -12,7 +12,7 @@ Around 9 years experienced, Software Developer armed with track record of design
 * 🛡️ SAML, SSO, OAuth, JNI
 * 🧪TestNG, Junit, Mockito
 
-## Experience
+## Industrial Experience
 
 
   Software Engineer 3, PayPal Inc. Bangalore, India <br>
@@ -26,7 +26,7 @@ Around 9 years experienced, Software Developer armed with track record of design
   Software Development Engineer, Amazon Inc. Chennai, India <br>
     ** In R&D Periodicals team of Amazon kindle product, Developed registration flow pages of Kindle Publishing Portal on both frontend and backend side.
 <br>
-## Projects
+## Personal Projects
 <a href="https://github.com/RahulAggarwal135/Blogging-Project" target="blank">Blogging Application</a></br>
 This is a Single Service application developed in Java using Springboot framework. Application can register a user, user can do a post and do a comment on respective post. Sorting, Pagination and Global Exception handling is implemented from controller level.
 </br></br>
